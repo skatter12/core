@@ -1,0 +1,9 @@
+{
+  "domain": "freezer_inventory",
+  "name": "Freezer Inventory",
+  "documentation": "https://www.home-assistant.io/integrations/freezer_inventory",
+  "codeowners": [],
+  "config_flow": true,
+  "quality_scale": "internal",
+  "iot_class": "local_push"
+}
