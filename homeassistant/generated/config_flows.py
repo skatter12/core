@@ -108,6 +108,7 @@ FLOWS = [
     "foscam",
     "freebox",
     "freedompro",
+    "freezer_inventory",
     "fritz",
     "fritzbox",
     "fritzbox_callmonitor",
